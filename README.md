@@ -23,7 +23,6 @@ The application allows users to record expenses, organize them by category, trac
 - Python
 - SQLite
 - Matplotlib
-- 
 ## How to Run
 
 ```bash
